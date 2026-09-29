@@ -1,0 +1,17 @@
+{
+  "css.validate": false,
+  "scss.validate": false,
+  "less.validate": false,
+  "css.customData": [],
+  "editor.quickSuggestions": {
+    "strings": "on"
+  },
+  "[css]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "tailwindCSS.experimental.configFile": null,
+  "tailwindCSS.includeLanguages": {
+    "typescript": "javascript",
+    "typescriptreact": "javascript"
+  }
+}
