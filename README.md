@@ -2,6 +2,14 @@
 
 A lightweight, mobile-first **table, order & billing app** built for Hotel Ganesh Pure Veg restaurant staff. Manage tables, take orders, apply taxes, and generate bills — all from a phone browser.
 
+## Credits
+
+**Developed by:** AK 0121 Agency
+**Team:** Fall_AK
+**Project:** Hotel Ganesh Billing App
+
+© 2026 **AK 0121 Agency** — All rights reserved.
+
 ---
 
 ## ✨ Features
@@ -207,4 +215,6 @@ Or deploy directly to **Vercel** — Vercel Analytics is already integrated and 
 
 ## 📄 License
 
-Private — for internal use at Hotel Ganesh Pure Veg.
+This project is proprietary software developed by AK 0121 Agency for the Fall_AK team and the Hotel Ganesh Billing App. Copyright © 2026 AK 0121 Agency — All rights reserved.
+
+See the [LICENSE](LICENSE) file for the full proprietary licensing terms.

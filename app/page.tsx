@@ -1,3 +1,7 @@
+// © 2026 AK 0121 Agency — All rights reserved.
+// Team: Fall_AK
+// Project: Hotel Ganesh Billing App
+
 import Link from 'next/link'
 import { BarChart3, ChevronRight, Armchair, UtensilsCrossed, LogOut } from 'lucide-react'
 import { AppShell } from '@/components/app-shell'

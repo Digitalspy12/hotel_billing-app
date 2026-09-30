@@ -1,3 +1,7 @@
+// © 2026 AK 0121 Agency — All rights reserved.
+// Team: Fall_AK
+// Project: Hotel Ganesh Billing App
+
 import { Analytics } from '@vercel/analytics/next'
 import type { Metadata, Viewport } from 'next'
 import { Poppins, Playfair_Display } from 'next/font/google'
