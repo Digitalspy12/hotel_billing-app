@@ -1,3 +1,7 @@
+// © 2026 AK 0121 Agency — All rights reserved.
+// Team: Fall_AK
+// Project: Hotel Ganesh Billing App
+
 import { updateSession } from '@/lib/supabase/proxy'
 import { type NextRequest } from 'next/server'
 
